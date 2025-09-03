@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/ArrayList2/ArrayList2.iml" filepath="$PROJECT_DIR$/ArrayList2/ArrayList2.iml" />
       <module fileurl="file://$PROJECT_DIR$/BackTracking/BackTracking.iml" filepath="$PROJECT_DIR$/BackTracking/BackTracking.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/KodNEst-DSA.iml" filepath="$PROJECT_DIR$/.idea/KodNEst-DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
     </modules>
   </component>
 </project>
