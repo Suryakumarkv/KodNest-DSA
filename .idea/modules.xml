@@ -5,8 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/ArrayList/ArrayList.iml" filepath="$PROJECT_DIR$/ArrayList/ArrayList.iml" />
       <module fileurl="file://$PROJECT_DIR$/ArrayList2/ArrayList2.iml" filepath="$PROJECT_DIR$/ArrayList2/ArrayList2.iml" />
       <module fileurl="file://$PROJECT_DIR$/BackTracking/BackTracking.iml" filepath="$PROJECT_DIR$/BackTracking/BackTracking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DoublyLinkedList/DoublyLinkedList.iml" filepath="$PROJECT_DIR$/DoublyLinkedList/DoublyLinkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/KodNEst-DSA.iml" filepath="$PROJECT_DIR$/.idea/KodNEst-DSA.iml" />
-      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/SinglyLinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/SinglyLinkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/llpractice/llpractice.iml" filepath="$PROJECT_DIR$/llpractice/llpractice.iml" />
     </modules>
   </component>
