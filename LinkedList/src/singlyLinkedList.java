@@ -2,7 +2,6 @@ public class singlyLinkedList {
 
     private Node head;
     private Node tail;
-
     private int size;
 
     public singlyLinkedList() {
@@ -72,7 +71,54 @@ public class singlyLinkedList {
     }
 
   ///Delete at last
+  public int deleteLast() {
+      if(size <=1) {
+          return deleteFirst();
+      }
+   Node secondLast = get(size - 2);
+      int value = tail.value;
+      tail= secondLast;
+      tail.next = null;
+      return value;
+  }
 
+  //Delete at particular index
+  public int delete(int index) {
+      if(index == 0) {
+          return deleteFirst();
+      }
+      if(index == size - 1) {
+          return deleteLast();
+      }
+      Node prev = get(index -1);
+      int val = prev.next.value;
+
+      prev.next = prev.next.next;
+
+      return val;
+  }
+
+  //Find a particular value in node
+    public Node findValue(int value) {
+      Node node= head;
+      while(node != null) {
+          if(node.value == value) {
+              return node;
+          }
+          node = node.next;
+      }
+      return null;
+    }
+
+
+  //Get node
+  public Node get(int index) {
+      Node node = head;
+      for(int i=0;i<index;i++) {
+          node = node.next;
+      }
+      return node;
+  }
 
     public void display() {
         Node temp = head;
