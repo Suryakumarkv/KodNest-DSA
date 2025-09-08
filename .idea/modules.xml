@@ -5,10 +5,13 @@
       <module fileurl="file://$PROJECT_DIR$/ArrayList/ArrayList.iml" filepath="$PROJECT_DIR$/ArrayList/ArrayList.iml" />
       <module fileurl="file://$PROJECT_DIR$/ArrayList2/ArrayList2.iml" filepath="$PROJECT_DIR$/ArrayList2/ArrayList2.iml" />
       <module fileurl="file://$PROJECT_DIR$/BackTracking/BackTracking.iml" filepath="$PROJECT_DIR$/BackTracking/BackTracking.iml" />
-      <module fileurl="file://$PROJECT_DIR$/DoublyLinkedList/DoublyLinkedList.iml" filepath="$PROJECT_DIR$/DoublyLinkedList/DoublyLinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Linked List/CircularLinkedList/CircularLinkedList.iml" filepath="$PROJECT_DIR$/Linked List/CircularLinkedList/CircularLinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Linked List/DoublyLinkedList/DoublyLinkedList.iml" filepath="$PROJECT_DIR$/Linked List/DoublyLinkedList/DoublyLinkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/KodNEst-DSA.iml" filepath="$PROJECT_DIR$/.idea/KodNEst-DSA.iml" />
-      <module fileurl="file://$PROJECT_DIR$/LinkedList/SinglyLinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/SinglyLinkedList.iml" />
-      <module fileurl="file://$PROJECT_DIR$/llpractice/llpractice.iml" filepath="$PROJECT_DIR$/llpractice/llpractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedlistProblems/LinkedlistProblems.iml" filepath="$PROJECT_DIR$/LinkedlistProblems/LinkedlistProblems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Linked List/LinkedList/SinglyLinkedList.iml" filepath="$PROJECT_DIR$/Linked List/LinkedList/SinglyLinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Linked List/llpractice/llpractice.iml" filepath="$PROJECT_DIR$/Linked List/llpractice/llpractice.iml" />
     </modules>
   </component>
 </project>

@@ -70,7 +70,12 @@ public class singlyLinkedList {
         return value;
     }
 
-  ///Delete at last
+    //insert using recursion
+    public void insertRecursion(int val) {
+
+    }
+
+    ///  ///Delete at last
   public int deleteLast() {
       if(size <=1) {
           return deleteFirst();

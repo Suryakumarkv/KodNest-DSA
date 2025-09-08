@@ -12,6 +12,8 @@ public class Main {
 
 
        dll.insertLast(155);
+
+       dll.insert(27, 256);
        dll.display();
 
     }
