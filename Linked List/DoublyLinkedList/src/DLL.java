@@ -43,7 +43,6 @@ public class DLL {
 
     public void insert(int after, int val) {
         Node p = find(after);
-
         if(p==null) {
             System.out.println("Does not exist");
             return;

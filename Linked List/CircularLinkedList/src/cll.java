@@ -8,9 +8,6 @@ public class cll {
         this.head = null;
     }
 
-    public cll() {
-
-    }
 
     //Insertion at Last
     public void insertLast(int val) {
@@ -57,6 +54,9 @@ public class cll {
             node = node.next;
         } while(node != head);
     }
+
+
+
 
      class Node {
          int value;

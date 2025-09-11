@@ -7,18 +7,20 @@ public class Main {
          list.insertFirst(9);
          list.insertFirst(10);
          list.insertFirst(11);
-
-//         list.insertLast(255);
-//        list.display();
-//         list.insertAtParticularIndex(500, 3);
-//         System.out.println(list.deleteFirst());
+         list.insertRecursion(88,2);
+         list.display();
+//
+////         list.insertLast(255);
+////        list.display();
+////         list.insertAtParticularIndex(500, 3);
+////         System.out.println(list.deleteFirst());
+////         list.display();
+//         System.out.println(list.deleteLast());
 //         list.display();
-         System.out.println(list.deleteLast());
-         list.display();
-         System.out.println(list.delete(2));
-         list.display();
-
-
-         System.out.println(list.findValue(5));
+//         System.out.println(list.delete(2));
+//         list.display();
+//
+//
+//         System.out.println(list.findValue(5));
     }
 }
