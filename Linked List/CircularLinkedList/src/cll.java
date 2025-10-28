@@ -15,6 +15,7 @@ public class cll {
         if(head == null) {
             head = node;
             tail = node;
+
         }
         tail.next = node;
         tail = node;

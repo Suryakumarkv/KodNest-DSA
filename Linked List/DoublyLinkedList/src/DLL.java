@@ -41,6 +41,16 @@ public class DLL {
         return null;
     }
 
+    public Node findIndexNode(int index) {
+        Node temp =    head;
+        for(int i=0;i<index;i++) {
+            temp=temp.next;
+
+        }
+        return temp;
+    }
+
+
     public void insert(int after, int val) {
         Node p = find(after);
         if(p==null) {
@@ -56,6 +66,50 @@ public class DLL {
            node.next.prev = node;
        }
     }
+
+    //Delete first
+    public void deleteFirst() {
+        if(head==null) {
+            return;
+        }
+
+        if(head == tail) {
+            head = null;
+            tail = null;
+            return;
+        }
+
+        head = head.next;
+        head.prev = null;
+    }
+
+    //Delete at last
+    public void deleteLast() {
+        if(tail==null) {
+            return;
+        }
+
+        if(head == tail) {
+            deleteFirst();
+        }
+
+        tail = tail.prev;
+        tail.next = null;
+    }
+
+    //Deletea at a posi .index
+
+    public void DeleteAt(int index, int val) {
+        Node temp  = findIndexNode(index);
+        if(temp==null) {
+            System.out.println("Does not exist");
+            return;
+        }
+
+        temp.prev.next = temp.next;
+        temp.next.prev = temp.prev;
+    }
+
 
     public void display() {
         Node temp = head;

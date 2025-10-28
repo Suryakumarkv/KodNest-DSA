@@ -5,14 +5,22 @@
       <module fileurl="file://$PROJECT_DIR$/ArrayList/ArrayList.iml" filepath="$PROJECT_DIR$/ArrayList/ArrayList.iml" />
       <module fileurl="file://$PROJECT_DIR$/ArrayList2/ArrayList2.iml" filepath="$PROJECT_DIR$/ArrayList2/ArrayList2.iml" />
       <module fileurl="file://$PROJECT_DIR$/BackTracking/BackTracking.iml" filepath="$PROJECT_DIR$/BackTracking/BackTracking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CircularLLL/CircularLLL.iml" filepath="$PROJECT_DIR$/CircularLLL/CircularLLL.iml" />
       <module fileurl="file://$PROJECT_DIR$/Linked List/CircularLinkedList/CircularLinkedList.iml" filepath="$PROJECT_DIR$/Linked List/CircularLinkedList/CircularLinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DoublyDLinkedList/DoublyDLinkedList.iml" filepath="$PROJECT_DIR$/DoublyDLinkedList/DoublyDLinkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/Linked List/DoublyLinkedList/DoublyLinkedList.iml" filepath="$PROJECT_DIR$/Linked List/DoublyLinkedList/DoublyLinkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exception-Handling/Exception-Handling.iml" filepath="$PROJECT_DIR$/Exception-Handling/Exception-Handling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Infosys/Infosys.iml" filepath="$PROJECT_DIR$/Infosys/Infosys.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/KodNEst-DSA.iml" filepath="$PROJECT_DIR$/.idea/KodNEst-DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/LinkedlistProblems/LinkedlistProblems.iml" filepath="$PROJECT_DIR$/LinkedlistProblems/LinkedlistProblems.iml" />
       <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
       <module fileurl="file://$PROJECT_DIR$/Linked List/LinkedList/SinglyLinkedList.iml" filepath="$PROJECT_DIR$/Linked List/LinkedList/SinglyLinkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/StackAndQueues/StackAndQueues.iml" filepath="$PROJECT_DIR$/StackAndQueues/StackAndQueues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stream/Stream.iml" filepath="$PROJECT_DIR$/Stream/Stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Infosys/Strings/Strings.iml" filepath="$PROJECT_DIR$/Infosys/Strings/Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stringss/Stringss.iml" filepath="$PROJECT_DIR$/Stringss/Stringss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Infosys/TreeSet/TreeSet.iml" filepath="$PROJECT_DIR$/Infosys/TreeSet/TreeSet.iml" />
       <module fileurl="file://$PROJECT_DIR$/Linked List/llpractice/llpractice.iml" filepath="$PROJECT_DIR$/Linked List/llpractice/llpractice.iml" />
     </modules>
   </component>
